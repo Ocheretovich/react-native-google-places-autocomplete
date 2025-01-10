@@ -171,6 +171,5 @@ const GooglePlacesInput = () => {
 
 ### Authors
 
-- [Farid Safi](https://www.twitter.com/FaridSafi)
-- [Maxim Yaskevich](https://www.twitter.com/mayaskme)
-- [Guilherme Pontes](https://www.twitter.com/guiiipontes)
+- [Farid Safi](https://www.x.com/FaridSafi)
+- [Guilherme Pontes](https://www.x.com/guiiipontes)
